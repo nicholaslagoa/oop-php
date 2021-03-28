@@ -6,6 +6,8 @@ oop-php is a web application that simply echoes a Venda-class object, just to de
 
 #### Dependencies
 
+***
+
 XAMPP Version:
 
 ``` 7.4.12```
